@@ -1,0 +1,15 @@
+C:\Users\pere\source\repos\myfirstapp\myfirstapp\bin\Debug\net6.0\myfirstapp.exe
+C:\Users\pere\source\repos\myfirstapp\myfirstapp\bin\Debug\net6.0\myfirstapp.deps.json
+C:\Users\pere\source\repos\myfirstapp\myfirstapp\bin\Debug\net6.0\myfirstapp.runtimeconfig.json
+C:\Users\pere\source\repos\myfirstapp\myfirstapp\bin\Debug\net6.0\myfirstapp.dll
+C:\Users\pere\source\repos\myfirstapp\myfirstapp\bin\Debug\net6.0\myfirstapp.pdb
+C:\Users\pere\source\repos\myfirstapp\myfirstapp\obj\Debug\net6.0\myfirstapp.csproj.AssemblyReference.cache
+C:\Users\pere\source\repos\myfirstapp\myfirstapp\obj\Debug\net6.0\myfirstapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pere\source\repos\myfirstapp\myfirstapp\obj\Debug\net6.0\myfirstapp.AssemblyInfoInputs.cache
+C:\Users\pere\source\repos\myfirstapp\myfirstapp\obj\Debug\net6.0\myfirstapp.AssemblyInfo.cs
+C:\Users\pere\source\repos\myfirstapp\myfirstapp\obj\Debug\net6.0\myfirstapp.csproj.CoreCompileInputs.cache
+C:\Users\pere\source\repos\myfirstapp\myfirstapp\obj\Debug\net6.0\myfirstapp.dll
+C:\Users\pere\source\repos\myfirstapp\myfirstapp\obj\Debug\net6.0\refint\myfirstapp.dll
+C:\Users\pere\source\repos\myfirstapp\myfirstapp\obj\Debug\net6.0\myfirstapp.pdb
+C:\Users\pere\source\repos\myfirstapp\myfirstapp\obj\Debug\net6.0\myfirstapp.genruntimeconfig.cache
+C:\Users\pere\source\repos\myfirstapp\myfirstapp\obj\Debug\net6.0\ref\myfirstapp.dll
